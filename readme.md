@@ -1,5 +1,6 @@
 # Awesome Creative Coding [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
 
+- [VectorForge Daily](https://github.com/airdropia/auto-earn-engine) — MIT-licensed, dependency-free Python pipeline that generates memorial shadow box SVGs with an editable name plate (you type the name inside Cricut, no custom order needed) plus original 7-layer mandala bundles; one file per physical layer, 6500px PNG renders, quality gates and a static storefront, running entirely on GitHub Actions.
 # [<img src="https://raw.githubusercontent.com/terkelg/awesome-creative-coding/master/cover.png">](https://github.com/terkelg/awesome-creative-coding)
 
 > Carefully curated list of awesome [creative coding](https://en.wikipedia.org/wiki/Creative_coding) resources primarily for beginners/intermediates.
